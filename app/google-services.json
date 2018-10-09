@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322021799395",
+    "firebase_url": "https://vlmabb-nf15.firebaseio.com",
+    "project_id": "vlmabb-nf15",
+    "storage_bucket": "vlmabb-nf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322021799395:android:0914648437be29e8",
+        "android_client_info": {
+          "package_name": "com.example.night_fury.vlmabb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322021799395-kgsasu130q2qhcrt0eo6gihpb5um3irk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.night_fury.vlmabb",
+            "certificate_hash": "b81a2e6b975f30418f591995697c654aed3a93ad"
+          }
+        },
+        {
+          "client_id": "322021799395-fnn6i197m1ummpnf2i2t4f51j2gc7dhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7AyPEd6UWzco3DM54P3oSN3z6KQPx7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322021799395-fnn6i197m1ummpnf2i2t4f51j2gc7dhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
